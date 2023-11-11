@@ -44,7 +44,7 @@
 }
 
 .information .job::before{
-    background-image: url(assets/icons/perfil.svg);
+    background-image: url("assets/icons/perfil.svg");
 }
 
 .information .location::before{
